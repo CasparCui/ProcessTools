@@ -1,7 +1,7 @@
 ProcessTools
 ============
 
-WPF application for analyzing the methods for Windows processes behavior modification.
+WPF application to analyze the methods for Windows processes behavior modification.
 
 ![ScreenShot](https://raw.github.com/illegible90/ProcessTools/master/screens/Processes.png)
 ![ScreenShot](https://raw.github.com/illegible90/ProcessTools/master/screens/ProcessesContextMenu.png)
